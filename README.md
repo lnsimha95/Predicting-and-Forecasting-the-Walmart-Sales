@@ -11,4 +11,12 @@ April is the month with the highest Sales
 ![image](https://github.com/lnsimha95/Predicting-and-Forecasting-the-Walmart-Sales/assets/109967940/f811bce7-266f-4109-99a0-c86bd448e35f)
 
 
-# 2. 
+# 2. Which day had the highest Sales for Walmart in a week? 
+
+Thursdays was the day with highest sales in a week for Walmart. 
+
+![image](https://github.com/lnsimha95/Predicting-and-Forecasting-the-Walmart-Sales/assets/109967940/de2a9f3c-de02-4283-addf-42f571c553a7)
+
+![image](https://github.com/lnsimha95/Predicting-and-Forecasting-the-Walmart-Sales/assets/109967940/9d2dd2ad-6f14-4550-a6b5-5b520bed4123)
+
+
