@@ -20,3 +20,12 @@ Thursdays was the day with highest sales in a week for Walmart.
 ![image](https://github.com/lnsimha95/Predicting-and-Forecasting-the-Walmart-Sales/assets/109967940/9d2dd2ad-6f14-4550-a6b5-5b520bed4123)
 
 
+# 3. Which year contributed to the highest Sales in Walmart? 
+
+2011 contributed to the highest sales in Walmart. 
+
+![image](https://github.com/lnsimha95/Predicting-and-Forecasting-the-Walmart-Sales/assets/109967940/c87330de-d4af-4b49-a25d-3afa66f30b99)
+
+![image](https://github.com/lnsimha95/Predicting-and-Forecasting-the-Walmart-Sales/assets/109967940/53b7a627-824e-42c6-8936-9bbb85bd3871)
+
+
