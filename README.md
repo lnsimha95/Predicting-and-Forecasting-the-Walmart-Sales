@@ -57,6 +57,12 @@ Obviously, non - holiday weeks contributed to the highest sales as there are 9 m
 ![image](https://github.com/lnsimha95/Predicting-and-Forecasting-the-Walmart-Sales/assets/109967940/66065805-99c4-4028-8a3c-bb28bff54796)
 
 
+# 5. Which Stores performed the best and least in terms of their total sales on a monthly, weekly, and yearly basis? 
+
+![image](https://github.com/lnsimha95/Predicting-and-Forecasting-the-Walmart-Sales/assets/109967940/8b12ea20-171c-44c2-bab9-5aa459549659)
+
+
+
 
 
 
