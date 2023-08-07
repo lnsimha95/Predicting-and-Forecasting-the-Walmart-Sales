@@ -19,6 +19,13 @@ To analyse and predict the demand for 45 Walmart Stories so that it can plan its
 I used numerous prediction algorithms for predicting the Walmart sales like Linear regression, random forest regression, Lasso regression, ridge regression, Simple Gradient boosting regression and XG Boosting regression. And I used Holt Winters Exponential Smoothing time series model to forecast the Walmart Sales as it is a retail dataset that is bound to seasonality. 
 
 
+# Data Source link 
+
+https://www.kaggle.com/datasets/yasserh/walmart-dataset 
+
+
+
+
 # Insights Obtained
 
 
