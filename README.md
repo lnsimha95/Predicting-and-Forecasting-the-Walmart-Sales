@@ -19,6 +19,9 @@ To analyse and predict the demand for 45 Walmart Stories so that it can plan its
 I used numerous prediction algorithms for predicting the Walmart sales like Linear regression, random forest regression, Lasso regression, ridge regression, Simple Gradient boosting regression and XG Boosting regression. And I used Holt Winters Exponential Smoothing time series model to forecast the Walmart Sales as it is a retail dataset that is bound to seasonality. 
 
 
+# Insights Obtained
+
+
 # 1.  Which was the month with the highest sales?
 
 April is the month with the highest Sales 
@@ -41,8 +44,26 @@ Thursdays was the day with highest sales in a week for Walmart.
 
 2011 contributed to the highest sales in Walmart. 
 
-![image](https://github.com/lnsimha95/Predicting-and-Forecasting-the-Walmart-Sales/assets/109967940/c87330de-d4af-4b49-a25d-3afa66f30b99)
+![image](https://github.com/lnsimha95/Predicting-and-Forecasting-the-Walmart-Sales/assets/109967940/8b53b94e-c72b-4bd4-80c1-67873813801c)
 
-![image](https://github.com/lnsimha95/Predicting-and-Forecasting-the-Walmart-Sales/assets/109967940/53b7a627-824e-42c6-8936-9bbb85bd3871)
+![image](https://github.com/lnsimha95/Predicting-and-Forecasting-the-Walmart-Sales/assets/109967940/5b85b1ef-446d-4171-badd-76499878c673)
+
+
+
+# 4. Which week had the highest Sales: Holiday or Non -holiday week?
+
+Obviously, non - holiday weeks contributed to the highest sales as there are 9 months that come under non - holiday weeks. 
+
+![image](https://github.com/lnsimha95/Predicting-and-Forecasting-the-Walmart-Sales/assets/109967940/66065805-99c4-4028-8a3c-bb28bff54796)
+
+
+
+
+
+
+
+
+
+
 
 
