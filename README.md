@@ -63,6 +63,14 @@ Obviously, non - holiday weeks contributed to the highest sales as there are 9 m
 ![image](https://github.com/lnsimha95/Predicting-and-Forecasting-the-Walmart-Sales/assets/109967940/eb97af7a-51b5-4bfa-b17d-ce705fef9f7f)
 
 
+# 6. Correlation Matrix for all features 
+
+![image](https://github.com/lnsimha95/Predicting-and-Forecasting-the-Walmart-Sales/assets/109967940/bc452588-ea43-4950-bbb0-0e6f3ab8f961)
+
+#### 1. We can see that store and unemployment have some amount of correlation of 0.26
+#### 2. Temperature and fuel price have only 0.14 correlation Whereas, temperature and CPI has a lesser correlation of 0.18.So, there is lesser possibility of multicollinearity from this above correlation 
+#### 3. We don't take the year and fuel price into concern as year is a constant variable with only three unique values
+
 
 
 
