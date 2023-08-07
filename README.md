@@ -1,4 +1,6 @@
-# Predicting-and-Forecasting-the-Walmart-Sales
+# Sales Wizard: Predicting Walmart Store Sales with Advanced Analytics
+
+
 This project uses prediction and forecasting algorithms to analyze the Walmart sales dataset.
 
 
